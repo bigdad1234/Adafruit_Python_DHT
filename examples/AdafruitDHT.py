@@ -19,3 +19,4 @@ print('Temp={0:0.1f}*  Humidity={1:0.1f}%'.format(temperature, humidity))
 else:
 print('Failed to get reading. Try again!')
 sys.exit(1)
+ 
